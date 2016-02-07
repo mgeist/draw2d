@@ -10,11 +10,11 @@ import (
 	"log"
 	"math"
 
-	"github.com/llgcode/draw2d"
-	"github.com/llgcode/draw2d/draw2dbase"
+	"github.com/mgeist/draw2d"
+	"github.com/mgeist/draw2d/draw2dbase"
 
-	"github.com/golang/freetype/raster"
-	"github.com/golang/freetype/truetype"
+	"github.com/mgeist/freetype/raster"
+	"github.com/mgeist/freetype/truetype"
 
 	"golang.org/x/image/draw"
 	"golang.org/x/image/font"

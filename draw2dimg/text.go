@@ -1,8 +1,8 @@
 package draw2dimg
 
 import (
-	"github.com/golang/freetype/truetype"
-	"github.com/llgcode/draw2d"
+	"github.com/mgeist/freetype/truetype"
+	"github.com/mgeist/draw2d"
 
 	"golang.org/x/image/math/fixed"
 )

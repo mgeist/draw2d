@@ -7,10 +7,10 @@ package frameimage
 import (
 	"math"
 
-	"github.com/llgcode/draw2d"
-	"github.com/llgcode/draw2d/draw2dimg"
-	"github.com/llgcode/draw2d/draw2dkit"
-	"github.com/llgcode/draw2d/samples"
+	"github.com/mgeist/draw2d"
+	"github.com/mgeist/draw2d/draw2dimg"
+	"github.com/mgeist/draw2d/draw2dkit"
+	"github.com/mgeist/draw2d/samples"
 )
 
 // Main draws the image frame and returns the filename.

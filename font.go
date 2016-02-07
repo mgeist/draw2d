@@ -9,7 +9,7 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/golang/freetype/truetype"
+	"github.com/mgeist/freetype/truetype"
 )
 
 var (

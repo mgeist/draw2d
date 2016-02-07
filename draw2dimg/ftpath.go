@@ -4,7 +4,7 @@
 package draw2dimg
 
 import (
-	"github.com/golang/freetype/raster"
+	"github.com/mgeist/freetype/raster"
 	"golang.org/x/image/math/fixed"
 )
 

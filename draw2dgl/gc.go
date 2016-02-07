@@ -7,10 +7,10 @@ import (
 	"runtime"
 
 	"github.com/go-gl/gl/v2.1/gl"
-	"github.com/golang/freetype/raster"
-	"github.com/llgcode/draw2d"
-	"github.com/llgcode/draw2d/draw2dbase"
-	"github.com/llgcode/draw2d/draw2dimg"
+	"github.com/mgeist/freetype/raster"
+	"github.com/mgeist/draw2d"
+	"github.com/mgeist/draw2d/draw2dbase"
+	"github.com/mgeist/draw2d/draw2dimg"
 )
 
 func init() {

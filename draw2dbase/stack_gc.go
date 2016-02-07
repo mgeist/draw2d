@@ -7,9 +7,9 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/llgcode/draw2d"
+	"github.com/mgeist/draw2d"
 
-	"github.com/golang/freetype/truetype"
+	"github.com/mgeist/freetype/truetype"
 )
 
 var DefaultFontData = draw2d.FontData{Name: "luxi", Family: draw2d.FontFamilySans, Style: draw2d.FontStyleNormal}
